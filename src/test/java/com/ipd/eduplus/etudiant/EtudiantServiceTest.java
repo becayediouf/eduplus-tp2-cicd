@@ -93,7 +93,7 @@ class EtudiantServiceTest {
 
         assertNotNull(result);
         assertEquals(1L, result.getId());
-        assertEquals("Diallo", result.getNom());
+        assertEquals("Sow", result.getNom());
     }
 
     // ── Test 4 : étudiant introuvable par id ──
